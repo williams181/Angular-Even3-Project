@@ -1,0 +1,135 @@
+html {
+    background-color: #E5E5E5;
+}
+
+.header {
+    position: absolute;
+    width: 887px;
+    height: 221.75px;
+    top: 0px;
+}
+
+.logo {
+    position: absolute;
+    width: 181px;
+    height: 55px;
+    left: 24px;
+    top: 34px;
+}
+
+.bt-editar {
+    position: absolute;
+    width: 89px;
+    height: 30px;
+    left: 647px;
+    top: 47px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    color: #288BE4;
+    border: none;
+    background-color: #fff;
+
+
+}
+
+.bt-gravar {
+    position: absolute;
+    width: 89px;
+    height: 30px;
+    left: 733px;
+    top: 46px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #288BE4;
+    border-color: #288BE4;
+    border-radius: 5px;
+
+
+}
+
+.tela {
+    position: absolute;
+    width: 626px;
+    height: 366px;
+    left: 192px;
+    top: 113px;
+    background: #303030;
+    border-radius: 5px;
+}
+
+.logo-tela {
+    position: absolute;
+    width: 67px;
+    height: 20px;
+    left: 550px;
+    top: 10px;
+    opacity: 0.5;
+}
+
+.opcoes-tela {
+    position: absolute;
+    width: 548px;
+    height: 55px;
+    left: 231px;
+    top: 488px;
+    background-color: #E5E5E5;
+    border-radius: 2px;
+}
+
+.opcoes-tela .person-1 {
+    position: absolute;
+    width: 68px;
+    height: 40px;
+    left: 25px;
+    top: 7px;
+}
+
+.opcoes-tela .person-2 {
+    position: absolute;
+    width: 68px;
+    height: 40px;
+    left: 110px;
+    top: 7px;
+}
+
+.opcoes-tela .person-sep-2 {
+    position: absolute;
+    width: 68px;
+    height: 40px;
+    left: 195px;
+    top: 7px;
+}
+
+.opcoes-tela .person-3 {
+    position: absolute;
+    width: 68px;
+    height: 40px;
+    left: 280px;
+    top: 7px;
+}
+
+.opcoes-tela .person-screen {
+    position: absolute;
+    width: 68px;
+    height: 40px;
+    left: 365px;
+    top: 7px;
+}
+
+.opcoes-tela .tela-cheia {
+    position: absolute;
+    width: 68px;
+    height: 40px;
+    left: 450px;
+    top: 7px;
+}
